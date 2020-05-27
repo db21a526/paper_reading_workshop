@@ -1,1 +1,8 @@
-# paper_reading_workshop
+# Read Me
+文章在paper.md里面选择。其中很多文章的中文讲解已经很全面了，可以参照。
+
+可以使用模板ppt讲解文章。
+
+讲者的PPT和录屏视频上传到[百度网盘]()，账号： 密码： 。
+
+疫情期间使用[zoom网络会议平台](https://zoom.com.cn/)，请大家提前下好软件。
