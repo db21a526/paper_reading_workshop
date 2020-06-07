@@ -1,4 +1,6 @@
 # paper_workshop
+- [XGNN: Towards Model-Level Explanations of Graph Neural Networks KDD 2020 可解释性图网络](https://arxiv.org/abs/2006.02587)
+
 ### others important
 - [Stacked Capsule Autoencoders(NIPS 2019)堆栈胶囊自编码器 （难）](https://arxiv.org/abs/1906.06818)
 - [Heterogeneous Graph Neural Networks for Extractive Document Summarization(ACL 2020)](https://arxiv.org/pdf/2004.12393.pdf)
