@@ -29,6 +29,7 @@
 - [Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering ICLR 2020](https://openreview.net/pdf?id=SJgVHkrYDH)
 - [Probability Calibration for Knowledge Graph Embedding Models ICLR 2020](https://openreview.net/pdf?id=S1g8K1BFwS)
 - [Deep Graph Matching Consensus ICLR 2020](https://openreview.net/pdf?id=HyeJf1HKvS)
+- [Improving Neural Relation Extraction with Implicit Mutual Relations ICDE 2020](http://staff.ustc.edu.cn/~hexn/papers/icde20-NRE.pdf)
 
 
 ### reasoning or causal inference
